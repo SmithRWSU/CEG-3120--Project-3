@@ -15,5 +15,6 @@ as well as the corrected code and correct submission with my change.
 
 Before (info new task.png)ea35a31
 https://raw.githubusercontent.com/SmithRWSU/CEG-3120--Project-3/master/info%20new%20task.png
+
 After  (icon fix.png) a57b67f
 https://raw.githubusercontent.com/SmithRWSU/CEG-3120--Project-3/master/icon%20fix.PNG
