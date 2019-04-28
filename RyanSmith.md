@@ -1,5 +1,5 @@
 In working on issue #83 "Added code to display informational toolttips in new task window." I found that there was previously
-saved labels and code to be implemented later thatt would show the proper tooltip per box on the New Task GUI.(info new task.png)
+saved labels and code to be implemented later thatt would show the proper tooltip per box on the New Task GUI.
 
 I used the following branches to alter the project and push it to the main branch for a pull request. 
 * 951d602 original changes to implement info tooltip buttons.
@@ -13,3 +13,7 @@ as well as the corrected code and correct submission with my change.
 * d248be0 Last commit after re pulling repository and deleting my accidental adition of the .dat file. (icon fix.png)
 
 
+Before (info new task.png)ea35a31
+https://raw.githubusercontent.com/SmithRWSU/CEG-3120--Project-3/master/info%20new%20task.png
+After  (icon fix.png) a57b67f
+https://raw.githubusercontent.com/SmithRWSU/CEG-3120--Project-3/master/icon%20fix.PNG
